@@ -264,12 +264,16 @@ footer .container-redes a {
   text-decoration: underline !important;
 }
 
-.text-muted .card-title {
+.text-muted {
   color: azure !important;
 }
 
 .card-footer {
   text-align: center;
+}
+
+.card-title {
+  color: azure !important;
 }
 
 .parrafo-contacto {
