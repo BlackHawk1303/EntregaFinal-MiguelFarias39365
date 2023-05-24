@@ -251,7 +251,7 @@ footer .container-redes a {
 }
 
 .card-body {
-  color: #A569BD;
+  color: #a569bd;
   background-color: black;
 }
 
@@ -264,7 +264,7 @@ footer .container-redes a {
   text-decoration: underline !important;
 }
 
-.text-muted {
+.text-muted .card-title {
   color: azure !important;
 }
 
